@@ -8,6 +8,6 @@
     "deploy": "vercel deploy --prod"
   },
   "devDependencies": {
-    "vercel": "21.3.3"
+    "vercel": "23.1.1"
   }
 }
